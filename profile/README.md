@@ -1,4 +1,7 @@
-# AIOS — Artificial Intelligence Operating System
+# Greenflame.tech
+We are a dedicated team of hackers trying to create methods of detecting fake news, AI-based attacks and knowledge poisoning.
+
+# Developer of AIOS — Artificial Intelligence Operating System
 
 AIOS is an **epistemic operating system for AI reasoning**.  
 It is designed to ingest unstructured data, extract claims, track provenance, detect contradictions, and manage multiple “worlds” of belief without collapsing uncertainty into premature truth.
